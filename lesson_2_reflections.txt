@@ -1,0 +1,4 @@
+
+What happens when you initialize a repository?  Why do you need to do it?
+
+A .git folder is created.  This is how the metadeta structure and different commits are stored.
