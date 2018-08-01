@@ -2,3 +2,8 @@
 What happens when you initialize a repository?  Why do you need to do it?
 
 A .git folder is created.  This is how the metadeta structure and different commits are stored.
+
+
+How is the staging area different from the working directory and the repository?  What value do you think it offers?
+
+The staging area is temporary space used to update the repository.  The working directory contains all of the files and folders that are being worked on. 
