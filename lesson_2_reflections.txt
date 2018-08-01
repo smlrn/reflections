@@ -27,3 +27,8 @@ They show you the paths that branches and commits can take.  You also get to see
 What is the result of merging two branches together?  Why do we represent it in the diagrams the way we do?
 
 There is a history that splits between the two branches from the master.  It's represented in the diagram that way in order to help visualize the paths.
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Minimize and control mistakes.
